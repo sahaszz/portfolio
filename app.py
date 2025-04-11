@@ -6,7 +6,7 @@ export default function Portfolio() {
       {/* Header */}
       <header className="bg-gray-100 py-8 text-center">
         <h1 className="text-4xl font-bold">Sudipta Saha</h1>
-        <p className="mt-2 text-lg">IT Coordinator | Full-Stack Developer</p>
+        <p className="mt-2 text-lg">IT Coordinator | Full Stack Developer</p>
         <p className="mt-1 text-sm text-gray-600">Kolkata, India</p>
         <div className="mt-4 flex justify-center gap-4">
           <a href="mailto:sudipta.saha177@gmail.com" className="text-blue-600 hover:underline flex items-center gap-1">
