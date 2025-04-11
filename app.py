@@ -106,7 +106,7 @@ export default function Portfolio() {
       {/* Contact Section */}
       <section id="contact" className="py-16 px-4 text-center">
         <h2 className="text-3xl font-bold text-indigo-800 mb-6">Contact</h2>
-        <p className="text-lg text-gray-700 mb-4">I'd love to hear from you! Feel free to reach out.</p>
+        <p className="text-lg text-gray-700 mb-4">I had love to hear from you! Feel free to reach out.</p>
         <div className="flex justify-center gap-6 text-indigo-600">
           <a href="mailto:sudipta.saha177@gmail.com" className="flex items-center gap-2 hover:underline">
             <Mail size={18} /> sudipta.saha177@gmail.com
