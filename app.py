@@ -68,8 +68,8 @@ export default function Portfolio() {
         <section id="education" className="my-8">
           <h2 className="text-2xl font-semibold mb-4">Education</h2>
           <ul className="list-disc ml-6">
-            <li>B.Tech in Computer Science – Future Institute of Engineering & Management (74.2%)</li>
-            <li>Diploma in Computer Science – Kingstone Polytechnic (73.3%)</li>
+            <li>B.Tech in Computer Science  Future Institute of Engineering & Management (74.2%)</li>
+            <li>Diploma in Computer Science  Kingstone Polytechnic (73.3%)</li>
           </ul>
         </section>
 
