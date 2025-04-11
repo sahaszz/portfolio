@@ -85,12 +85,12 @@ export default function Portfolio() {
       <section id="skills" className="py-16 px-4 text-center">
         <h2 className="text-3xl font-bold text-indigo-800 mb-6">Skills</h2>
         <ul className="grid grid-cols-2 md:grid-cols-3 gap-4 text-lg font-semibold text-indigo-700">
-          <li>🧠 C#</li>
-          <li>🧠 .NET / ASP.NET / ADO.NET</li>
-          <li>🧠 PHP</li>
-          <li>🧠 JavaScript & jQuery</li>
-          <li>🧠 PowerShell</li>
-          <li>🧠 MySQL & Oracle</li>
+          <li> C#</li>
+          <li>.NET / ASP.NET / ADO.NET</li>
+          <li> PHP</li>
+          <li> JavaScript & jQuery</li>
+          <li> PowerShell</li>
+          <li> MySQL & Oracle</li>
         </ul>
       </section>
 
