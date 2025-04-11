@@ -38,15 +38,15 @@ export default function Portfolio() {
             </li>
             <li>
               <h3 className="font-bold">HCL Technologies Pvt Ltd</h3>
-              <p>Senior Technical Specialist | May 2017 – March 2023</p>
+              <p>Senior Technical Specialist | May 2017 to March 2023</p>
             </li>
             <li>
               <h3 className="font-bold">Encoders</h3>
-              <p>PHP Developer | Jun 2016 - Jan 2017</p>
+              <p>PHP Developer | Jun 2016 to Jan 2017</p>
             </li>
             <li>
               <h3 className="font-bold">Elphill Technology</h3>
-              <p>PHP Developer | Jun 2015 - May 2016</p>
+              <p>PHP Developer | Jun 2015 to May 2016</p>
             </li>
           </ul>
         </section>
